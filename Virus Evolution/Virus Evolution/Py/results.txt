@@ -1,0 +1,45 @@
+Virus Simulation Results:
+
+Virulence: 13
+Resistance: 4
+Contagion Rate: 66
+Mortality Rate: 27.666666666666668
+
+Number of Humans Not Infected: 800
+Number of Humans Not Infected: 285
+Number of Humans Infected: 308
+Number of Humans Dead: 207
+
+
+
+
+Virus Simulation Results:
+
+Virulence: 59
+Resistance: 5
+Contagion Rate: 34
+Mortality Rate: 32.666666666666664
+
+Number of Humans Not Infected: 800
+Number of Humans Not Infected: 554
+Number of Humans Infected: 9
+Number of Humans Dead: 237
+
+
+
+
+Virus Simulation Results:
+
+Virulence: 73
+Resistance: 13
+Contagion Rate: 33
+Mortality Rate: 39.666666666666664
+
+Number of Humans Not Infected: 800
+Number of Humans Not Infected: 499
+Number of Humans Infected: 0
+Number of Humans Dead: 301
+
+
+
+
